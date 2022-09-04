@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=CNC_Pendant_v3
+*Date=17:26:44
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;44.2956;-42.2763;0;Bottom;Arduino Micro
+2;;THT;29.5636;-49.9139;0;Bottom;Display Conn
+3;;;72.7436;-67.6939;0;Bottom;Hole1
+4;;;2.6396;-2.41603;0;Bottom;Hole4
+5;;;2.6396;-67.4399;0;Bottom;Hole3
+6;;THT;7.4656;-20.8309;0;Bottom;Button Connect
+7;;THT;67.9176;-19.3069;0;Bottom;Enc Conn
+8;;;21.9436;-23.2439;0;Bottom;Mux
+9;;THT;67.9176;-51.3109;0;Bottom;Enc GND/VCC
+10;;;72.7436;-2.66994;0;Bottom;Hole2
