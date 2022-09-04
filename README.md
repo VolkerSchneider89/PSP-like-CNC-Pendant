@@ -42,3 +42,6 @@ To give you an overview of the parts to be made, an exlosion view is attached be
 
 ![alt text](https://github.com/VolkerSchneider89/PSP-like-CNC-Pendant/blob/main/Images/Pendant_Exploded_view.png?raw=true)
 
+To ensure a good fit make parts that are placed inside another (Acrylic frontplate inside the wooden frame) a little bit smaller (Depends on the accuracy of your system).
+
+What you don't see is that I made some engravings for the frontplate. You can find them in the CAD files.
