@@ -34,3 +34,11 @@ For me the pendant must fulfill some requirements, which I list below. This resu
    1. To select the steps for the jog command 
 4. Display 
    1. Optical feedback
+   
+   
+## Layout ##
+
+To give you an overview of the parts to be made, an exlosion view is attached below. I use a mixture of milled parts (acrylic front panel, wooden frame, PCB) and 3D printed parts (base, display holder). It should be no problem to 3D print or mill all parts depending on the looks you want to have.
+
+![alt text](https://github.com/VolkerSchneider89/PSP-like-CNC-Pendant/blob/main/Images/Pendant_Exploded_view.png?raw=true)
+
